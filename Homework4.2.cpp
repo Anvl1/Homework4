@@ -2,7 +2,8 @@
 #include <string>
 #include <Windows.h>
 
-int main() {
+int main() 
+{
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     setlocale(LC_ALL, "rus");
